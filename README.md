@@ -44,7 +44,10 @@ Daily-Task
 2. 看性格测试的视频
 3. Hugging Face 的视频看完
 4. 剑指offer
-5. 
+
+## 2023/8/12
+1. leetocde 刷 10 道题
+ 
 
 
 
